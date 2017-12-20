@@ -1,0 +1,108 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Raleway Thin'), local('Raleway-Thin'), url(http://www.artics.com.br/fonts/rr0ijB5_2nAJsAoZ6vECXaCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Raleway ExtraLight'), local('Raleway-ExtraLight'), url(http://www.artics.com.br/fonts/cbAbzEjxTdN5KKmS-gA0tS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Raleway Light'), local('Raleway-Light'), url(http://www.artics.com.br/fonts/ZKwULyCG95tk6mOqHQfRBC3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), local('Raleway-Regular'), url(http://www.artics.com.br/fonts/do7-0avPC2vxor6SN2THGA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Raleway Medium'), local('Raleway-Medium'), url(http://www.artics.com.br/fonts/Li18TEFObx_yGdzKDoI_ci3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Raleway SemiBold'), local('Raleway-SemiBold'), url(http://www.artics.com.br/fonts/STBOO2waD2LpX45SXYjQBS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Raleway Bold'), local('Raleway-Bold'), url(http://www.artics.com.br/fonts/WmVKXVcOuffP_qmCpFuyzS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Raleway ExtraBold'), local('Raleway-ExtraBold'), url(http://www.artics.com.br/fonts/QoPu455RxV2raYSIFXAMBS3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Raleway Black'), local('Raleway-Black'), url(http://www.artics.com.br/fonts/Ji5epXNcpHu3r63lhS0cTi3USBnSvpkopQaUR-2r7iU.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Raleway Thin Italic'), local('Raleway-ThinItalic'), url(http://www.artics.com.br/fonts/IWp_KHUkJoKURWwpAA2nYF02b4v3fUxqf9CZJ1qUoIA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Raleway ExtraLight Italic'), local('Raleway-ExtraLightItalic'), url(http://www.artics.com.br/fonts/N2DIbZG4399cPGfifZUEQtqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Raleway Light Italic'), local('Raleway-LightItalic'), url(http://www.artics.com.br/fonts/TVSB8ogXDKMcnAAJ5CqrUtqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Raleway Italic'), local('Raleway-Italic'), url(http://www.artics.com.br/fonts/7dO2Hj7qB8nRVFK0svQqRqCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Raleway Medium Italic'), local('Raleway-MediumItalic'), url(http://www.artics.com.br/fonts/S7vGLZZ40c85SJgiptJGV9qQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Raleway SemiBold Italic'), local('Raleway-SemiBoldItalic'), url(http://www.artics.com.br/fonts/OY22yoG8EJ3IN_muVWm29NqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Raleway Bold Italic'), local('Raleway-BoldItalic'), url(http://www.artics.com.br/fonts/lFxvRPuGFG5ktd7P0WRwKtqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Raleway ExtraBold Italic'), local('Raleway-ExtraBoldItalic'), url(http://www.artics.com.br/fonts/us4LjTCmlYgh3W8CKujEJtqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Raleway Black Italic'), local('Raleway-BlackItalic'), url(http://www.artics.com.br/fonts/oY2RadnkHfshu5f0FLsgVdqQynqKV_9Plp7mupa0S4g.ttf) format('truetype');
+}
